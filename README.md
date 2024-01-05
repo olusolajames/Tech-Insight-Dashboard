@@ -1,4 +1,4 @@
-I recently worked on a project that involves using the Stack Overflow Developer Survey 2019 data to create three dashboards.
+I recently worked on a project that involves using the Stack Overflow Developer Survey 2019 data to create three dashboards with IBM Cognos Dashboard Embedded (CDE).
 
 Current Technology Usage tab containing:
 
